@@ -1,0 +1,77 @@
+body{
+    margin-top: 40px;
+    background-color: rgb(43, 172, 231);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    width: 350px;
+    background-color: white;
+    margin: auto;
+}
+.utilizador{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+
+h1{
+    color: rgb(27, 218, 218);
+}
+
+.visitante{
+    border-radius: 80px;
+    padding: 10px;
+    width: 300px;
+}
+
+.visitante input[type=number]{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    text-align: center;
+    width: 200px;
+}
+
+
+.utilizador input[type=text], input[type=number], input[type=password]{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    text-align: center;
+    width: 300px;
+}
+
+
+input[type=submit], button{
+    border: none;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(27, 218, 218);
+    font-size: 18px;
+    width: 250px;
+}
+
+
+.resultado{
+    width: 800px;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+button{
+    font-size: 20px;
+    width: 100px;
+    padding: 5px;
+}
+
+img{
+    border-radius: 50px;
+}
+
+
+
+
